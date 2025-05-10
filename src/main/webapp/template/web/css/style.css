@@ -1,0 +1,29 @@
+.my-menu {
+  background-color: rgb(30, 156, 30) !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  /* overflow: scroll !important; */
+}
+.my-menu ul > li > a {
+  color: #fff !important;
+}
+#banner img {
+  width: 100%;
+}
+.footer ul li a {
+  color: #fff !important;
+}
+.my-navbar li a:hover {
+  background-color: rgb(209, 28, 28);
+}
+.my-chu {
+  color: rgb(209, 28, 28);
+}
+.my-border {
+  border: 2px solid brown;
+}
+.my-x{
+  margin top: 300px;
+  position: fixed;
+}

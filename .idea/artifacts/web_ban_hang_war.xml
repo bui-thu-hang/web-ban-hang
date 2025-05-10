@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-ban-hang:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>web-ban-hang</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="web-ban-hang-1.0.war">
+      <element id="artifact" artifact-name="web-ban-hang:war exploded" />
+    </root>
+  </artifact>
+</component>
